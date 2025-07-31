@@ -1,0 +1,1 @@
+These files are from a 2023 project processing Landsat data from the USGS API and likely are no longer compatible. The downloader, filters, and api files are not original and minorly amended from another user.
